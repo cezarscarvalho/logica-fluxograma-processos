@@ -32,7 +32,7 @@ O projeto consistiu em desenhar o fluxo lógico para um sistema de aprovação e
 
 Abaixo, o diagrama de blocos desenvolvido, demonstrando o fluxo de dados desde o início até o encerramento do processo.
 
-![Diagrama de Blocos - Cálculo de Média](diagramas/fluxograma_media.png)
+![Diagrama de Blocos - Cálculo de Média](img/Print-Diagrama.png)
 
 > *Você pode baixar a versão em PDF de alta qualidade na pasta `/diagramas` ou clicando [aqui](./diagramas/Diagrama%20de%20Blocos%20para%20o%20Cálculo%20de%20Média.pdf).*
 
