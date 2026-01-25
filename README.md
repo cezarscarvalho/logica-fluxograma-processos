@@ -51,6 +51,7 @@ Este projeto demonstra minha habilidade em:
 * 🏠 [Início do Perfil](https://github.com/cezarscarvalho)
 * 💻 [Lógica de Programação (Portugol)](https://github.com/cezarscarvalho/logica-programacao-portugol)
 * 🐧 [Sistemas Operacionais (Linux)](https://github.com/cezarscarvalho/sistemas-operacionais-linux)
+* 💻 [Modelagem de Dados](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
 
 ## ✉️ Contato
 
