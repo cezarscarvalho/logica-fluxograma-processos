@@ -1,5 +1,3 @@
-## logica-fluxograma-processos
-
 # Modelagem de Processos e Lógica Computacional
 
 Este repositório documenta as atividades práticas da disciplina de **Lógica e Matemática Computacional**. O foco do projeto foi o desenvolvimento de algoritmos visuais (Diagramas de Blocos) para representação de regras de negócio e tomada de decisão.
@@ -23,7 +21,7 @@ O projeto consistiu em desenhar o fluxo lógico para um sistema de aprovação e
 3.  **Condicional (Decisão):**
     * **SE** Média $\ge$ 6: Aluno Aprovado.
     * **SENÃO** (Média < 6): Aluno Reprovado.
-    * 
+    
 
 [Image of flowchart symbols meaning]
 
@@ -57,6 +55,7 @@ Confira os meus outros projetos técnicos desenvolvidos durante a graduação em
 * 🗄️ [**Modelagem de Dados** (MySQL & DER)](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
 * 🌐 [**Redes de Computadores** (Cisco Packet Tracer)](https://github.com/cezarscarvalho/projeto-cisco-packet-tracer)
 * 📊 [**Projeto Agile**](https://github.com/cezarscarvalho/projeto-software-agile)
+* 🌍 [**Projetos Extensionistas**](https://github.com/cezarscarvalho/projetos-extensionistas-faculdade)
 
 ## ✉️ Contato
 
